@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /users
+Disallow: /user-management
+Disallow: /list-management
+Disallow: /registration-requests
+Disallow: /set-mark
+Disallow: /request-exam
+Disallow: /follow-students
+Disallow: /student
+Disallow: /login?redirect=*
+Sitemap: https://www.generationoffaith.org/sitemap.xml
